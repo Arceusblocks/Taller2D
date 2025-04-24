@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Visual studio\\Clase\\",
+  "WorkspaceRootPath": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|d:\\visual studio\\clase\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\mi proyecto c\\taller2d\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\mi proyecto c\\taller2d\\salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:salon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|d:\\visual studio\\clase\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|d:\\visual studio\\clase\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:circulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|d:\\visual studio\\clase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\mi proyecto c\\taller2d\\ejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:ejemplos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|c:\\users\\alumnotlsch\\documents\\visual studio 2022\\mi proyecto c\\taller2d\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8CD6CB-B5FF-447B-95C7-447CBC7636B3}|Clase.csproj|solutionrelative:cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +42,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Salon.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Salon.cs",
+              "RelativeDocumentMoniker": "Salon.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Salon.cs*",
+              "RelativeToolTip": "Salon.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:44:52.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Ejemplos.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Ejemplos.cs",
+              "RelativeDocumentMoniker": "Ejemplos.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Ejemplos.cs",
+              "RelativeToolTip": "Ejemplos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T21:37:51.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Visual studio\\Clase\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Visual studio\\Clase\\Program.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwG0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T16:55:33.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Circulo.cs",
-              "DocumentMoniker": "D:\\Visual studio\\Clase\\Circulo.cs",
-              "RelativeDocumentMoniker": "Circulo.cs",
-              "ToolTip": "D:\\Visual studio\\Clase\\Circulo.cs",
-              "RelativeToolTip": "Circulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "Cuadrado.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Cuadrado.cs",
+              "RelativeToolTip": "Cuadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T18:50:39.382Z",
+              "WhenOpened": "2025-04-24T21:07:20.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Rectangulo.cs",
-              "DocumentMoniker": "D:\\Visual studio\\Clase\\Rectangulo.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Rectangulo.cs",
               "RelativeDocumentMoniker": "Rectangulo.cs",
-              "ToolTip": "D:\\Visual studio\\Clase\\Rectangulo.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Rectangulo.cs",
               "RelativeToolTip": "Rectangulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,15 +111,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Circulo.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Circulo.cs",
+              "RelativeDocumentMoniker": "Circulo.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Circulo.cs",
+              "RelativeToolTip": "Circulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T18:50:39.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Triangulo.cs",
-              "DocumentMoniker": "D:\\Visual studio\\Clase\\Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Triangulo.cs",
               "RelativeDocumentMoniker": "Triangulo.cs",
-              "ToolTip": "D:\\Visual studio\\Clase\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Triangulo.cs",
               "RelativeToolTip": "Triangulo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T18:26:01.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Alumno.cs",
+              "RelativeDocumentMoniker": "Alumno.cs",
+              "ToolTip": "C:\\Users\\alumnotlsch\\Documents\\Visual Studio 2022\\Mi proyecto C\\Taller2D\\Alumno.cs",
+              "RelativeToolTip": "Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:34:02.521Z",
               "EditorCaption": ""
             }
           ]
